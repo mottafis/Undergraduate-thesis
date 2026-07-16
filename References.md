@@ -2,9 +2,6 @@
 
 This repository accompanies the poster
 
-# **# References
-
-This repository accompanies the poster
 
 # **INVISIBLE DECAY OF HIGGS BOSON IN A MODEL WITH DIRACON**
 
